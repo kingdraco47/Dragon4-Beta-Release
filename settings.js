@@ -36,31 +36,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94755982430'] //ur owner number
+global.ownername = "𝙼𝚛.𝕯𝖗𝖆𝖈𝖔" //ur owner name
+global.ytname = "YT: The Dark Creations" //ur yt chanel name
+global.socialm = "❖ 𝐀𝐝𝐦𝐢𝐧 𝐁𝐨𝐚𝐫𝐝 ❖: https://chat.whatsapp.com/GTWHDwrhm4B5DF8kBgTMfl" //ur github or insta name
+global.location = "Sri Lanka, Kaluthara, Bulathsinhala" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94755982430']
+global.ownertag = '94755982430' //ur tag number
+global.botnumber = '94755982430' //Add your Bot Number For Log
+global.botname = '𝕾𝖓𝖔𝖜 𝕯𝖗𝖆𝖌𝖔𝖓' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
+global.linkz = 'https://chat.whatsapp.com/GTWHDwrhm4B5DF8kBgTMfl'
+global.reactmoji = "🐉" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.packname = "𝕾𝖓𝖔𝖜 𝕯𝖗𝖆𝖌𝖔𝖓" //ur sticker watermark packname
+global.author = "𝕾𝖓𝖔𝖜 𝕯𝖗𝖆𝖌𝖔𝖓" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.aliveimg ="https://telegra.ph/file/c1335019a62b1282fde61.png"
+global.allmenuimg ="https://telegra.ph/file/c1335019a62b1282fde61.png"
+global.welcomeimg= "https://telegra.ph/file/c1335019a62b1282fde61.png"
+global.gbyeimg = "https://telegra.ph/file/c1335019a62b1282fde61.png"
+global.alivemsg = "*𝐈'𝐦 𝕾𝖓𝖔𝖜 𝕯𝖗𝖆𝖌𝖔𝖓 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭./n 𝐈'𝐦 𝐀𝐋𝐈𝐕𝐄 𝐍𝐨𝐰.../n /n ♔ ᵀᴴᴱ 𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪 ♔"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
